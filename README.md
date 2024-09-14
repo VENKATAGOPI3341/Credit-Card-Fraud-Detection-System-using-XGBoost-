@@ -89,12 +89,12 @@ After training, the model was evaluated using the following metrics:
 - **F1-Score**: A balance between precision and recall.
 - **Confusion Matrix**: Displaying true positives, false positives, true negatives, and false negatives.
 
-![Confusion Matrix](https://github.com/yourusername/yourrepository/assets/confusion_matrix.png)
+![Confusion Matrix](confusion matrix.png)
 
 ### ROC Curve
 - The **ROC-AUC score** was used to assess model performance, with an AUC of **0.98**, demonstrating a strong ability to distinguish between fraud and non-fraud cases.
 
-![ROC Curve](https://github.com/yourusername/yourrepository/assets/roc_curve.png)
+![ROC Curve](roc curve.png)
 
 ---
 
@@ -104,7 +104,7 @@ Using XGBoost’s built-in feature importance analysis, the top predictive featu
 - Account balance differences: `balanceOrigDiff`, `balanceDestDiff`
 - Transaction type (`type_Transfer`, `type_Cashout`)
 
-![Feature Importance](https://github.com/yourusername/yourrepository/assets/feature_importance.png)
+![Feature Importance](feature importance.png)
 
 ---
 
