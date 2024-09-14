@@ -94,7 +94,7 @@ After training, the model was evaluated using the following metrics:
 ### ROC Curve
 - The **ROC-AUC score** was used to assess model performance, with an AUC of **0.98**, demonstrating a strong ability to distinguish between fraud and non-fraud cases.
 
-![ROC Curve](roc curve.png)
+![ROC Curve](roccurve.png)
 
 ---
 
