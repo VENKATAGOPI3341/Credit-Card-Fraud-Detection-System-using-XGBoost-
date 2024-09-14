@@ -89,7 +89,7 @@ After training, the model was evaluated using the following metrics:
 - **F1-Score**: A balance between precision and recall.
 - **Confusion Matrix**: Displaying true positives, false positives, true negatives, and false negatives.
 
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](roc_curve.png)
 
 ### ROC Curve
 - The **ROC-AUC score** was used to assess model performance, with an AUC of **0.98**, demonstrating a strong ability to distinguish between fraud and non-fraud cases.
