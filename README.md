@@ -104,7 +104,7 @@ Using XGBoost’s built-in feature importance analysis, the top predictive featu
 - Account balance differences: `balanceOrigDiff`, `balanceDestDiff`
 - Transaction type (`type_Transfer`, `type_Cashout`)
 
-![Feature Importance](feature importance.png)
+![Feature Importance](https://github.com/user-attachments/assets/5dad16f8-fc19-4c8f-ae88-e0eda523a581)
 
 ---
 
