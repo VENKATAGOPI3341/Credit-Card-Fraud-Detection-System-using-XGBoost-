@@ -3,7 +3,7 @@
 
 # Fraud Detection System using XGBoost and Advanced Data Processing
 
-![Fraud Detection](https://github.com/yourusername/yourrepository/assets/image.png)
+![Fraud Detection](fraud.jpeg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
