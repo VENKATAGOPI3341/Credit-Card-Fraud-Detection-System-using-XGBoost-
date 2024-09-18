@@ -1,5 +1,3 @@
-# Credit-Card-Fraud-Detection-System-using-XGBoost-
-
 
 # Fraud Detection System using XGBoost and Advanced Data Processing
 
@@ -121,4 +119,28 @@ Next steps:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-detection-xgboost.git
+   git clone https://github.com/VENKATAGOPI3341/Credit-Card-Fraud-Detection-System-using-XGBoost-.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd Credit-Card-Fraud-Detection-System-using-XGBoost
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+## Conclusions and Next Steps
+- Handles missing data and outliers.
+- Applies SMOTE for class balancing.
+- Performs advanced feature engineering.
+- Evaluates model performance with metrics like precision, recall, F1-score, and AUC-ROC.
+- Visualizes model results using matplotlib and seaborn.
+  
+## Technology Stack
+- Python
+- XGBoost
+- scikit-learn
+- SMOTE (imblearn)
+- Matplotlib & Seaborn
+## License
+- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
